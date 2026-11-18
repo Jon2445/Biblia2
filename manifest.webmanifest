@@ -1,0 +1,19 @@
+{
+  "name": "La Bibliateca",
+  "short_name": "Bibliateca",
+  "description": "La biblioteca de las sagradas escrituras",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3ead8",
+  "theme_color": "#30271e",
+  "icons": [
+    {
+      "src": "./icono.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
